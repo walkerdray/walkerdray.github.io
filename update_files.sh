@@ -18,9 +18,9 @@ cp $prefpol_pdf ./pdfs/prefpol.pdf
 
 
 # update github
-git add -A
-git commit -m "uploads"
-git push -u origin master
+# git add -A
+# git commit -m "uploads"
+# git push -u origin master
 
 
 

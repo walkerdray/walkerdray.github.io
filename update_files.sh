@@ -19,11 +19,11 @@ cp $CV_pdf ./pdfs/CV.pdf
 #cp $tauction_pdf ./pdfs/tauction.pdf
 
 # update github
-sleep 1
-echo "uploading"
-git add -A
-git commit -m "uploads"
-git push -u origin master
+# sleep 1
+# echo "uploading"
+# git add -A
+# git commit -m "uploads"
+# git push -u origin master
 
 
 
